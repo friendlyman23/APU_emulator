@@ -47,3 +47,6 @@
 
 - How long did it take you to get accustomed to the new working environment when the SNES was introduced?
 - When we switched to *the SNES, I don’t think there was any time to study before starting work for real. So, they put a sound programmer with me, and together with him, we made music every day while sampling tones and testing them out.* But even then there wasn’t enough time. I wouldn’t have been able to make it even working at the pace of a regular person. So, we went to work at 6 AM, and tried out what we could before people arrived.
+
+# WARNING
+- [Looks like NES roms need to have header files to be played by emulators?](https://github.com/OpenEmu/OpenEmu/issues/4049)
