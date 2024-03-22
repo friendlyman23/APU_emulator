@@ -1,0 +1,3 @@
+[submodule "FF_disassembly"]
+	path = FF_disassembly
+	url = https://github.com/Entroper/FF1Disassembly
