@@ -1,5 +1,1 @@
 *.code-workspace
-
-# I put these in my project folder. Really shouldn't pollute the .git* files with personal setup options buuuut...
-cc65/*
-fceux/*
